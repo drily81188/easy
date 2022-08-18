@@ -1,0 +1,23 @@
+.input {
+  border: none;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.input1 {
+  margin-left: 20px;
+  border: none;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.inputs {
+  margin-top: 20px;
+  padding: 10px;
+  border: none;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+h3 {
+  font-weight: 500;
+  font-style: normal;
+}
+p {
+  font-weight: 100;
+  font-style: normal;
+}
